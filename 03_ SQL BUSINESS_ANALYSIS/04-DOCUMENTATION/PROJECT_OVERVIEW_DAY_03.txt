@@ -1,0 +1,88 @@
+# DAY 03 – SQL BUSINESS ANALYSIS
+
+## 1. Project Overview
+
+The SQL Business Analysis project focuses on analyzing employee and department data using Oracle SQL to generate meaningful business insights and support data-driven decision-making.
+
+The project uses the existing EMP_INFO and DEPT_INFO tables to perform advanced SQL analysis, salary comparisons, department-wise performance analysis, employee ranking, and business reporting.
+
+A total of 17 SQL queries were developed and executed to address different business requirements. Each query result was exported into CSV format and validated against expected results.
+
+## 2. Project Objectives
+
+- Analyze employee and department information.
+- Calculate department-wise salary statistics.
+- Identify employees earning above department and company averages.
+- Perform salary ranking and comparison.
+- Analyze department salary expenditure.
+- Identify salary patterns and employee distributions.
+- Generate structured business reports using SQL.
+
+## 3. Technologies Used
+
+- Oracle Database
+- Oracle SQL Developer 17.4
+- Oracle SQL
+- Microsoft Excel
+- CSV
+- GitHub
+
+## 4. SQL Concepts Implemented
+
+- INNER JOIN, LEFT JOIN and FULL OUTER JOIN
+- Aggregate Functions
+- GROUP BY and HAVING
+- Subqueries
+- Correlated Subqueries
+- Common Table Expressions
+- Analytical Functions
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- CASE Expressions
+- Department-wise Salary Analysis
+- Data Filtering and Comparison
+
+## 5. Business Scenarios Covered
+
+1. Department-wise employee and salary analysis.
+2. Highest salary in each department.
+3. Top three distinct salary levels by department.
+4. Employees earning above their department average.
+5. Total company salary expenditure and department contribution.
+6. Employees earning above another department's maximum salary.
+7. Employees earning above the second-highest salary in their department.
+8. Identification of employees with identical salaries.
+9. Department-wise employee salary ranking.
+10. Department-wise minimum, maximum and salary range.
+11. Employees earning above the company average salary.
+12. Employee salary classification.
+13. Identification of employees without matching departments.
+14. Comparison of department average and company average salaries.
+15. Department-wise salary statistics.
+16. Top two distinct salary levels in each department.
+17. Identification of departments with above-average salary expenditure.
+
+## 6. Project Deliverables
+
+- SQL script containing 17 business analysis queries.
+- 17 exported CSV query results.
+- Excel workbook containing 17 test cases.
+- Project overview documentation.
+- README file.
+
+## 7. Testing and Validation
+
+All 17 SQL queries were executed successfully.
+
+The actual query results were compared against independently established expected results. All 17 test cases were validated and marked PASS.
+
+## 8. Project Outcome
+
+Successfully completed an employee and department business analysis project using Oracle SQL.
+
+The project demonstrates practical SQL querying, analytical functions, business data analysis, result validation, and documentation skills.
+
+## 9. Author
+
+GitHub: https://github.com/sanivamsi
