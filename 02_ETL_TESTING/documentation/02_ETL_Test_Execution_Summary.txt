@@ -1,0 +1,26 @@
+# ETL Test Execution Summary
+
+## Project
+Employee Data Validation – Source vs Target
+
+## Database Tables
+- SOURCE_EMP
+- TARGET_EMP
+
+## Test Data Summary
+
+| Metric        | Source | Target  |
+
+| Total Records | 6      | 7       |
+| Total Salary  | 292000 | 324000  |
+
+## Identified Data Issues
+1. Employee ID 106 is duplicated in the target.
+2. Employee ID 105 is missing from the target.
+3. Employee ID 107 is an extra record in the target.
+4. Employee ID 104 has a salary mismatch (55000 vs 50000).
+5. Target record count differs from source.
+6. Total salary differs between source and target.
+
+## Conclusion
+The validation queries identified discrepancies between source and target employee data. The target data requires correction before it can be considered fully validated.

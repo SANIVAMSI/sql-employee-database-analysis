@@ -1,0 +1,29 @@
+# ETL Testing Project – Employee Data Validation
+
+## 1. Project Objective
+Validate employee data between source and target Oracle database tables to identify data discrepancies and data-quality issues.
+
+## 2. Database Environment
+- Database: Oracle
+- Tool: Oracle SQL Developer
+- Source table: SOURCE_EMP
+- Target table: TARGET_EMP
+
+## 3. Validation Scope
+- Duplicate employee records
+- Missing and extra records
+- Employee attribute mismatches
+- Record count validation
+- Salary total validation
+- Duplicate record consistency
+- Hire date, department, name and salary comparisons
+
+## 4. Testing Approach
+SQL queries were executed against source and target tables. Actual results were compared with expected results to identify discrepancies.
+
+## 5. Project Deliverables
+- Database creation scripts
+- Source and target sample data
+- SQL validation queries
+- Query results and evidence
+- ETL test-case Excel workbook
