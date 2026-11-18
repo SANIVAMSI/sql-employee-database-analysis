@@ -1,0 +1,31 @@
+# Project Requirements
+## Project Name
+Employee Database Analysis Using Oracle SQL
+
+## Business Objective
+Analyze employee and department information to help management understand workforce distribution, salary patterns, and hiring trends.
+
+## Database
+Oracle Database
+
+## Required Tables
+1. EMP_INFO
+2. DEPT_INFO
+
+## Business Requirements
+1. Display employee details.
+2. Analyze employee salaries.
+3. Compare salaries across departments.
+4. Identify the highest-paid employees.
+5. Analyze employee hiring dates.
+6. Identify departments with no employees.
+7. Identify employees earning above department averages.
+8. Generate department-wise employee statistics.
+
+## Expected Deliverables
+1. Database creation scripts.
+2. Sample data scripts.
+3. SQL query scripts.
+4. Query output evidence.
+5. Test cases.
+6. Project documentation.
